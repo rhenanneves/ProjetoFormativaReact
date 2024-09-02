@@ -64,3 +64,43 @@ Orçamento: Alocação de recursos financeiros para cobrir custos de servidores,
 *Manual de Identidade Visual Senai-Sp*
 
 Referencia: <a href="https://www.sp.senai.br/noticia/manual-de-identidade-visual"></a>
+
+Marca:A marca SENAI deve ser aplicada, preferencialmente, sobre fundo
+branco, tom que transmite clareza e equilíbrio, além de valorizar
+as informações. 
+
+Cuidados:
+
+Cores primárias:
+Ao menos uma das cores primárias deve estar sempre presente nos layouts.
+
+
+*Paleta de cores*
+
+C:0 M:100 Y:100 K:0
+R:255 G:5 B:20
+#e30613
+
+C:0 M:0 Y:0 K:0
+R:255 G:255 B:255
+#ffffff
+
+C:10 M:0 Y:0 K:90
+R:0 G:0 B:0
+#000000
+
+C:10 M:0 Y:0 K:60
+R:135 G:135 B:135
+#878787
+
+USOS INDEVIDOS DA MARCA
+Não alterar a cor do texto
+Não rotacionar
+Não modificar as proporções
+Não aplicar contorno
+
+*Fontes*
+Títulos:Montserrat
+(BLACK | REGULAR | LIGHT)
+
+Texto (Bold, Semibold, Regular, Light)
