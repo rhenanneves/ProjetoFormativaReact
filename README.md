@@ -51,6 +51,11 @@ Orçamento: Alocação de recursos financeiros para cobrir custos de servidores,
   <img src="/img/Fluxograma.png" alt="logo" width="1000px">
 </p>
 
+*Diagrama de Uso*
+
+<p>
+  <img src="/img/DiaUso.png" alt="logo" width="1000px">
+</p>
 
 
 
