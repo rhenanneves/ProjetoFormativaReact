@@ -103,4 +103,4 @@ Não aplicar contorno
 Títulos:Montserrat
 (BLACK | REGULAR | LIGHT)
 
-Texto (Bold, Semibold, Regular, Light)
+Texto (Bold, Semibold, Regular, Light).
