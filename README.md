@@ -63,4 +63,4 @@ Orçamento: Alocação de recursos financeiros para cobrir custos de servidores,
 
 *Manual de Identidade Visual Senai-Sp*
 
-Referencia: <a href="http:https://cronos-media.sesisenaisp.org.br/api/media/1-0/files?file=arq_81_221108_4e633672-b0e8-4502-9096-172179043b17.pdf&disposition=false">
+Referencia: <a href="https://www.sp.senai.br/noticia/manual-de-identidade-visual"></a>
